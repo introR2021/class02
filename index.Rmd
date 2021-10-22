@@ -2,7 +2,7 @@
 title: "Visualizando - ggplot2"
 subtitle: "Encontro Síncrono 02"
 author: 
-  - <br></br> "Renata Oliveira e Lucélia Vaz"
+  - <br></br> Renata Oliveira e Lucélia Vaz
 date: '26/10/2021'
 output:
   xaringan::moon_reader:
@@ -488,17 +488,6 @@ ggplot(student_survey, aes(x = fb_visits_per_day)) +
     x = "Número de vezes", y = NULL
     )
 ```
-
----
-
-
-# Atividades para a Semana
-
-- Fechar tutoriais `1` e `2` - **30/06**
-- Fechar tutorial `swirl` - **Sem entrega**
-- Começar a trabalhar no `Projeto 1` (primeira entrega do Projeto integrador) - **01/07**
-- Fazer atividades da apresentação do `encontro síncrono 4`
-
 
 ---
 class: middle
@@ -1270,7 +1259,7 @@ data <- read_sheet("https://docs.google.com/spreadsheets/d/1U6Cf_qEOhiR9AZqTqS3m
 ```
 
 ---
-class: middle, inverse
+class: middle
 
 # Atividades em classe
 
